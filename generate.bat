@@ -1,0 +1,1 @@
+gradlew -PmainClass=com.gft.academy.frauddetector.generator.App execute
